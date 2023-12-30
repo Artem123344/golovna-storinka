@@ -1,0 +1,41 @@
+body{
+   background-color:rgb(194, 194, 194); 
+   font-family: sans-serif;
+}
+
+header{
+    border-bottom:6px dashed black;
+}
+
+h1{
+    text-align:center;
+    color:mediumblue;
+    border:7px double darkorange;
+    padding:10px;
+}
+
+nav a{
+    text-decoration:none;
+    border:3px solid darkcyan;
+    border-radius:30px;
+    background-color:lightseagreen;
+    color:black;
+    padding:7px;
+    margin:20px;
+    font-size:20px;
+}
+
+nav{
+    text-align: center;
+    margin-top:20px;
+}
+
+footer{
+    background-color: black;
+    margin-top:200px;
+}
+
+footer p{
+    color:white;
+    margin-left:80px;
+}
